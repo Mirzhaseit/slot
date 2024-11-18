@@ -118,9 +118,9 @@ The program for creating slot timetable using basic HTML tags is executed succes
 </tr>
 </table>
 </body>
-<html>
+</html>
 '''
-## OUTPUT
+### OUTPUT
 ![alt text](<Screenshot (59).png>)
 
 ## RESULT
